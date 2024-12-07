@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Want to try?, Clone the project and you can run:
 
+### `npm install`
+
+Installs the required packages.\
+
 ### `npm start`
 
 Runs the app in the development mode.\
