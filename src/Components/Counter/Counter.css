@@ -1,0 +1,15 @@
+.Counter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#spanRow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+span{
+    font-size:xx-large
+}
