@@ -6,9 +6,9 @@ Want to try?, Clone the project and you can run:
 
 ### `npm install`
 
-Installs the required packages.\
+Installs the required packages.
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
